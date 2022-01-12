@@ -5,7 +5,7 @@
 **Sobre mim:**
 * :man: 2000, São Paulo - SP, Ele/Dele
 * :runner: Aluno em constante _Desenvolvimento_
-* :dart: Desenvolvedor Web Full Stack Junior
+* :dart: Desenvolvedor Web Junior
 
 **Formações:**
 * :school: Ensino Médio _(2017)_
