@@ -19,28 +19,24 @@ Aqui irei postar meus códigos enquanto sofro com js/ts e busco me tornar um dev
 
 Atualmente focado em: **Desenvolvimento Frontend**
 
-
 ### Ferramentas e Técnologias
 
 <div>
-    <img src="/assets/techSvg/html5.svg" title="HTML5" width="50"/>
-    <img src="/assets/techSvg/css3.svg" title="CSS3"width="50"/>
-    <img src="/assets/techSvg/javascript.svg" title="Javascript"width="50"/>
-    <img src="/assets/techSvg/typescript.svg" title="Typescript" width="50" />
-    <img src="/assets/techSvg/react.svg" title="React" width="50"/>
-    <img src="/assets/techSvg/jest.svg" title="Jest" width="50" />
+    <img src="/assets/techSvg/html5.svg" title="HTML5" width="50" hspace="8"/>
+    <img src="/assets/techSvg/css3.svg" title="CSS3"width="50" hspace="8"/>
+    <img src="/assets/techSvg/javascript.svg" title="Javascript"width="50" hspace="8"/>
+    <img src="/assets/techSvg/typescript.svg" title="Typescript" width="50" hspace="8"/>
+    <img src="/assets/techSvg/react.svg" title="React" width="50" hspace="8"/>
+    <img src="/assets/techSvg/jest.svg" title="Jest" width="50" hspace="8"/>
 </div>
 <br>
 <div>
-    <img src="/assets/techSvg/node.svg" title="NodeJS" width="50"/>
-    <img src="/assets/techSvg/express.svg" title="ExpressJS" width="50"/>
+    <img src="/assets/techSvg/node.svg" title="NodeJS" width="50" hspace="8"/>
+    <img src="/assets/techSvg/express.svg" title="ExpressJS" width="50" hspace="8"/>
 </div>
 <br>
 <div>
-    <img src="/assets/techSvg/git.svg" title="GIT" width="50"/>
-    <img src="/assets/techSvg/github.svg" title="GitHub" width="50"/>
-    <img src="/assets/techSvg/firebase.svg" title="Firebase" width="50"/>
+    <img src="/assets/techSvg/git.svg" title="GIT" width="50" hspace="8"/>
+    <img src="/assets/techSvg/github.svg" title="GitHub" width="50" hspace="8"/>
+    <img src="/assets/techSvg/firebase.svg" title="Firebase" width="50" hspace="8"/>
 </div>
-
-
-[def]: assets/techSvg/css3.sv
