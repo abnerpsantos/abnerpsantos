@@ -1,16 +1,41 @@
-### Hi there 👋
+# Olá, bem vindo(a) ao meu perfil! :blue_heart:
 
-<!--
-**abnerpsantos/abnerpsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/cv.svg" align="right" width="30%" height="250">
 
-Here are some ideas to get you started:
+Aqui irei postar meus códigos enquanto sofro com js/ts e busco me tornar um dev *"fullstack"*, sinta-se a vontade para compartilhar meus projetos, abrir issues e enviar pull requests.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Sobre mim:**
+- :man: Ele/Dele
+- :house: São Paulo - SP
+
+**Formações:**
+
+- Técnico em Eletrônica - SENAI Anchieta *(2017)*
+- Desenvolvimento Web Fullstack - Instituto PROA *(2021)*
+
+---
+
+<img src="./assets/code.svg" align="right" width="250">
+
+Atualmente focado em: **Desenvolvimento Frontend**
+
+
+## Ferramentas e Técnologias
+
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" />
+</div>
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50"/>
+</div>
+<div>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50"/>
+</div>
