@@ -45,6 +45,6 @@ Atualmente focado em: **Desenvolvimento Frontend**
 ---
 
 <div align="center">
-    <img  align="left" width="60%" height="300" src="https://github-readme-stats.vercel.app/api?username=abnerpsantos&show_icons=true&theme=transparent&rank_icon=github" alt="abnerpsantos github stats card" />
+    <img  align="left" width="50%" height="300" src="https://github-readme-stats.vercel.app/api?username=abnerpsantos&show_icons=true&theme=transparent&rank_icon=github" alt="abnerpsantos github stats card" />
     <img align="right" width="40%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerpsantos&show_icons=true&theme=transparent&layout=donut" alt="abnerpsantos most used languages card" />
 </div>
