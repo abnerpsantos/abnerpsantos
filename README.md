@@ -1,10 +1,11 @@
-# Olá, bem vindo(a) ao meu perfil! :blue_heart:
+# Olá, bem vindo(a) ao meu perfil! :blue_heart
 
 <img src="./assets/cv.svg" align="right" width="30%" height="250">
 
 Aqui irei postar meus códigos enquanto sofro com js/ts e busco me tornar um dev *"fullstack"*, sinta-se a vontade para compartilhar meus projetos, abrir issues e enviar pull requests.
 
 **Sobre mim:**
+
 - :man: Ele/Dele
 - :house: São Paulo - SP
 
@@ -39,4 +40,11 @@ Atualmente focado em: **Desenvolvimento Frontend**
     <img src="/assets/techSvg/git.svg" title="GIT" width="50" hspace="8"/>
     <img src="/assets/techSvg/github.svg" title="GitHub" width="50" hspace="8"/>
     <img src="/assets/techSvg/firebase.svg" title="Firebase" width="50" hspace="8"/>
+</div>
+
+---
+
+<div align="center">
+    <img  align="left" width="60%" height="300" src="https://github-readme-stats.vercel.app/api?username=abnerpsantos&show_icons=true&theme=transparent&rank_icon=github" alt="abnerpsantos github stats card" />
+    <img align="right" width="40%" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerpsantos&show_icons=true&theme=transparent&layout=donut" alt="abnerpsantos most used languages card" />
 </div>
