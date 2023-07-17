@@ -1,4 +1,4 @@
-# Olá, bem vindo(a) ao meu perfil! :blue_heart
+# Olá, bem vindo(a) ao meu perfil! :blue_heart:
 
 <img src="./assets/cv.svg" align="right" width="30%" height="250">
 
