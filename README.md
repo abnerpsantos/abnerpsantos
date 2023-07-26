@@ -25,6 +25,7 @@ Atualmente focado em: **Desenvolvimento Frontend**
 <div>
     <img src="/assets/techSvg/html5.svg" title="HTML5" width="50" hspace="8"/>
     <img src="/assets/techSvg/css3.svg" title="CSS3"width="50" hspace="8"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" hspace="8"/>
     <img src="/assets/techSvg/javascript.svg" title="Javascript"width="50" hspace="8"/>
     <img src="/assets/techSvg/typescript.svg" title="Typescript" width="50" hspace="8"/>
     <img src="/assets/techSvg/react.svg" title="React" width="50" hspace="8"/>
